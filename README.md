@@ -1,6 +1,9 @@
-﻿# InterCommerce App (Android Nativo)
+# InterCommerce App (Android Nativo)
 
-MVP de una aplicación móvil de E-commerce robusta, optimizada para rendimiento nativo en Android utilizando Kotlin.
+MVP de una aplicación móvil de E-commerce robusta, optimizada para rendimiento nativo en Android utilizando Kotlin y Jetpack Compose.
+
+* 📱 **Descarga del APK (Demo):** [Descargar app-debug.apk en Google Drive](https://drive.google.com/file/d/1MWoqUUFz6wJUgfrT_OxhMXBKfhGhVZgJ/view?usp=sharing)
+* 🛠️ **Arquitectura:** Clean Architecture + MVVM + Jetpack Compose + Offline-First (Room)
 
 ## Arquitectura y Decisiones Técnicas
 
